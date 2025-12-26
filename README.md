@@ -1,5 +1,5 @@
 <!-- Banner اختصاصی -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2:4e4376,100:2b5876&height=200&section=header&text=Mohammad%20Naghavi&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4356,100:2b5876&height=200&section=header&text=Mohammad%20Naghavi&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 
 <h3 align="center">Backend Developer | PHP & Node.js & Express.js Specialist</h3>
 
