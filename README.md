@@ -72,12 +72,11 @@
 ### 🔥 Contribution Graph
 [![Mohammad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadna62&theme=react-dark&hide_border=true)](https://github.com/mohammadna62)
 
-### 📈 Stats Overview
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadna62&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadna62&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mohammadna62&theme=dracula&margin-w=10&no-frame=true)
+
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadna62&theme=tokyonight)
+
 
 ---
 
