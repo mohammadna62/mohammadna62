@@ -26,7 +26,7 @@
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,mongodb,redis" />
 </p>
 
 ### Frontend
@@ -39,12 +39,13 @@
   <img src="https://skillicons.dev/icons?i=vscode,phpstorm,git,github" />
 </p>
 
-### ⚡ Tech Icons (Node.js, Express.js, MongoDB, MySQL)
+### ⚡ Tech Icons (Node.js, Express.js, MongoDB, MySQL,Redis)
 <p align="center">
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="40" alt="Express.js"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40" alt="MongoDB"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40" alt="MySQL"/></a>
+  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" width="40" alt="Redis"/></a>
 </p>
 
 ---
