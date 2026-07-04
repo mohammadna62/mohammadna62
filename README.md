@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <strong>Email:</strong> mohammad.naghavi.work@gmail.com
+  <strong>Email:</strong> mohammad.naghavi@gmail.com
 </p>
 
 ---
