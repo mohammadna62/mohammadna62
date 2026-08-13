@@ -18,7 +18,7 @@
 - 🌱 **Learning:** Advanced Express.js, API Optimization, Cloud Deployment  
 - 📫 **Contact:** mohammad.naghavi@gmail.com  
 - 🔗 **GitHub:** [https://github.com/mohammadna62](https://github.com/mohammadna62)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/mohammad-naghavi-olyaei/](www.linkedin.com/in/mohammad-naghavi-olyaei)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/mohammad-naghavi-olyaei-b78014100/](www.linkedin.com/in/mohammad-naghavi-olyaei)
 
 ---
 
